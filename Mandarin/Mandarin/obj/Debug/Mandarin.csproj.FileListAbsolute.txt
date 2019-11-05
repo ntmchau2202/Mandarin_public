@@ -1,0 +1,11 @@
+C:\Users\Minh Chau\OneDrive\Desktop\Mandarin\Mandarin\bin\Debug\Mandarin.exe.config
+C:\Users\Minh Chau\OneDrive\Desktop\Mandarin\Mandarin\bin\Debug\Mandarin.exe
+C:\Users\Minh Chau\OneDrive\Desktop\Mandarin\Mandarin\bin\Debug\Mandarin.pdb
+C:\Users\Minh Chau\OneDrive\Desktop\Mandarin\Mandarin\obj\Debug\Mandarin.csprojAssemblyReference.cache
+C:\Users\Minh Chau\OneDrive\Desktop\Mandarin\Mandarin\obj\Debug\Mandarin.Properties.Resources.resources
+C:\Users\Minh Chau\OneDrive\Desktop\Mandarin\Mandarin\obj\Debug\Mandarin.csproj.GenerateResource.cache
+C:\Users\Minh Chau\OneDrive\Desktop\Mandarin\Mandarin\obj\Debug\Mandarin.csproj.CoreCompileInputs.cache
+C:\Users\Minh Chau\OneDrive\Desktop\Mandarin\Mandarin\obj\Debug\Mandarin.exe
+C:\Users\Minh Chau\OneDrive\Desktop\Mandarin\Mandarin\obj\Debug\Mandarin.pdb
+C:\Users\Minh Chau\OneDrive\Desktop\Mandarin\Mandarin\obj\Debug\Mandarin.MainGame.resources
+C:\Users\Minh Chau\OneDrive\Desktop\Mandarin\Mandarin\obj\Debug\Mandarin.BeginGame.resources
